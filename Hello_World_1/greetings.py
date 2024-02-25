@@ -10,4 +10,5 @@ def fun():
             <h2> This is Heading 2 </h2>
             <hr>
             <h3>Super bro</h3>
+            <h> This is a error
             '''
